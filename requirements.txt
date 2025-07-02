@@ -1,5 +1,4 @@
 streamlit
-git+https://github.com/bitvavo/python-bitvavo-api.git@main
-pandas
-requests
-numpy
+bitvavo-python
+rich
+
